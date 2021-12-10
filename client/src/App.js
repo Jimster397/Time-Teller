@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import {BrowserRouter, Route, Switch} from 'react-router-dom'
 import NavBar from './Navbar';
 import LoginPage from "./LoginPage";
-// import './index.css';
+import './index.css';
 import WatchPage from "./WatchPage";
 
 

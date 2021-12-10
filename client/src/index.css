@@ -1,0 +1,23 @@
+body {
+    background-size: auto;
+    background-image:url("https://wallpaperaccess.com/full/2862615.jpg");
+    
+    margin-left: 150px;
+    margin-right: 100px;
+    padding: auto;
+    background-size:fit;
+  }
+.card {
+  background: rgb(63,94,251);
+  background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+  
+    padding: 14px 20px;
+    margin: 36px 10px 50px 50px;
+    border: 5px outset #050503; ;
+    border-radius: 10px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    word-spacing: 5px;
+    text-align: center;
+    box-shadow: 0px 10px 15px 0px rgb(12, 11, 11);
+}
